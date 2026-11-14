@@ -1,0 +1,2076 @@
+[
+  {
+    "keywords": [
+      "mc_woohoo",
+      "mcwoohoo",
+      "mc woohoo"
+    ],
+    "name": "MC Woohoo (MCCC Module)",
+    "creator": "Deaderpool",
+    "mod_title": "MC Woohoo",
+    "override_mod_title": false,
+    "version": "2026.6.0",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "공식 다운로드 페이지 (MC Woohoo MediaFire)",
+        "title": "Deaderpool MCCC Downloads (MC Woohoo)",
+        "url": "https://deaderpool-mccc.com/downloads.html"
+      },
+      {
+        "label": "Patreon",
+        "title": "Deaderpool Patreon",
+        "url": "https://www.patreon.com/mccc_deaderpool"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "mccc",
+      "mc command center",
+      "mc_cmd_center",
+      "deaderpool",
+      "mc_career",
+      "mc_cas",
+      "mc_cheats",
+      "mc_cleaner",
+      "mc_clubs",
+      "mc_control",
+      "mc_dresser",
+      "mc_gedcom",
+      "mc_occult",
+      "mc_population",
+      "mc_pregnancy",
+      "mc_settings",
+      "mc_tuner"
+    ],
+    "name": "MC Command Center (MCCC)",
+    "creator": "Deaderpool",
+    "mod_title": "MC Command Center (MCCC)",
+    "override_mod_title": false,
+    "version": "2026.6.0",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "공식 다운로드 페이지",
+        "title": "Deaderpool MCCC Downloads",
+        "url": "https://deaderpool-mccc.com/downloads.html"
+      },
+      {
+        "label": "Patreon",
+        "title": "Deaderpool Patreon",
+        "url": "https://www.patreon.com/mccc_deaderpool"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "mod wonderfulwhims",
+      "turbodriver_wonderfulwhims",
+      "wonderfulwhims_scripts",
+      "wonderfulwhims_tuning"
+    ],
+    "name": "WonderfulWhims",
+    "creator": "TURBODRIVER",
+    "mod_title": "WonderfulWhims",
+    "override_mod_title": false,
+    "version": "v60",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Itch.io (공식)",
+        "title": "WonderfulWhims | TURBODRIVER",
+        "url": "https://turbodriver.itch.io/wonderfulwhims"
+      },
+      {
+        "label": "공식 웹사이트",
+        "title": "WonderfulWhims Official",
+        "url": "https://wonderfulwhims.com/"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "more_cas_columns",
+      "more columns in cas"
+    ],
+    "name": "More Columns in CAS",
+    "creator": "Weerbesu",
+    "mod_title": "More Columns in CAS",
+    "override_mod_title": false,
+    "version": "1.38",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "More Columns in CAS | Weerbesu",
+        "url": "https://www.patreon.com/weerbesu/posts/more-columns-in-27751117"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "Weerbesu Official Patreon",
+        "url": "https://www.patreon.com/weerbesu"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "ui_cheats_extension",
+      "ui cheats extension"
+    ],
+    "name": "UI Cheats Extension",
+    "creator": "Weerbesu",
+    "mod_title": "UI Cheats Extension",
+    "override_mod_title": false,
+    "version": "1.59.1",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "UI Cheats Extension | Weerbesu",
+        "url": "https://www.patreon.com/weerbesu/posts/ui-cheats-v1-59-26240068"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "Weerbesu Official Patreon",
+        "url": "https://www.patreon.com/weerbesu"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "xoox",
+      "icon cas organizer",
+      "xoox_studio"
+    ],
+    "name": "[XOOX] Icon CAS Organizer",
+    "creator": "XOOX",
+    "mod_title": "Icon CAS Organizer",
+    "override_mod_title": false,
+    "version": "1.1",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[XOOX] Icon CAS Organizer v1.1",
+        "url": "https://www.patreon.com/XOOX_studio/posts/icon-cas-v1-1-171172167"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "XOOX Studio Patreon",
+        "url": "https://www.patreon.com/XOOX_studio"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "kiss-n-grind",
+      "kiss_n_grind",
+      "kiss n grind"
+    ],
+    "name": "[UTOPYA] Kiss-n-Grind Mod",
+    "creator": "UTOPYA",
+    "mod_title": "Kiss-n-Grind Mod",
+    "override_mod_title": false,
+    "version": "1.9.9",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Kiss-n-Grind 1.9.9 | Provocative Grind | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/kiss-n-grind-1-9-131081267"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "passionate gifts",
+      "passionate_gifts",
+      "passionategifts",
+      "passionate gift"
+    ],
+    "name": "[UTOPYA] Passionate Gifts MOD",
+    "creator": "UTOPYA",
+    "mod_title": "Passionate Gifts MOD",
+    "override_mod_title": false,
+    "version": "0.8",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Passionate Gift 0.8 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/passionate-gift-151330104"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "volleyball mod",
+      "volleyball_mod",
+      "volleyballmod",
+      "[utopya] volleyball",
+      "utopya_volleyball",
+      "volleyball"
+    ],
+    "name": "Volleyball Mod",
+    "creator": "UTOPYA",
+    "mod_title": "Volleyball Mod",
+    "override_mod_title": true,
+    "version": "0.2.4",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Volleyball Mod 0.2.4 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/volleyball-mod-0-166618081"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "twister game mod",
+      "twister_game_mod",
+      "twister mod",
+      "twister_mod",
+      "[utopya] twister",
+      "utopya_twister",
+      "twister box",
+      "twister mat"
+    ],
+    "name": "Twister Game Mod",
+    "creator": "UTOPYA",
+    "mod_title": "Twister Game Mod",
+    "override_mod_title": true,
+    "version": "0.2.3",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Twister Game Mod 0.2.3 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/twister-mod-158968693"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "[utopya] vintage bicycle 0.2.package",
+      "[utopya] vintage bicycle",
+      "utopya_vintage_bicycle",
+      "vintage bicycle 0.2",
+      "vintage bicycle"
+    ],
+    "name": "[UTOPYA] Vintage Bicycle",
+    "creator": "UTOPYA",
+    "mod_title": "Vintage Bicycle (Ride Together)",
+    "override_mod_title": true,
+    "version": "0.2",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Ride Together Update 0.5 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/ride-together-0-142863954"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "[utopya] rental ebike station 0.2.package",
+      "[utopya] rental ebike station",
+      "utopya_rental_ebike_station",
+      "rental ebike station 0.2",
+      "rental ebike station"
+    ],
+    "name": "[UTOPYA] Rental Ebike Station",
+    "creator": "UTOPYA",
+    "mod_title": "Rental Ebike Station (Ride Together)",
+    "override_mod_title": true,
+    "version": "0.2",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Ride Together Update 0.5 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/ride-together-0-142863954"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "[utopya] ride together_mod a0.5.package",
+      "[utopya] ride together_mod",
+      "ride together_mod",
+      "ride_together_mod",
+      "[utopya] ride together",
+      "utopya_ride_together",
+      "ride together",
+      "ride_together"
+    ],
+    "name": "Ride Together",
+    "creator": "UTOPYA",
+    "mod_title": "Ride Together",
+    "override_mod_title": true,
+    "version": "a0.5",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Ride Together Update 0.5 | UTOPYA",
+        "url": "https://www.patreon.com/UTOPYA_cc/posts/ride-together-0-142863954"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "UTOPYA Official Patreon",
+        "url": "https://www.patreon.com/UTOPYA_cc"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "littlemssam_asktocookbakegrill",
+      "asktocookbakegrill",
+      "ask_to_cook_bake_grill",
+      "ask to cook/bake/grill/mix drink",
+      "ask to cook bake grill mix drink",
+      "ask-to-cook-bake-grill-mix-drink"
+    ],
+    "name": "Ask to Cook/Bake/Grill/Mix Drink!",
+    "creator": "LittleMsSam",
+    "mod_title": "Ask to Cook/Bake/Grill/Mix Drink!",
+    "override_mod_title": true,
+    "version": "2026.02.01",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Ask to Cook/Bake/Grill/Mix Drink! | LittleMsSam",
+        "url": "https://www.curseforge.com/sims4/mods/ask-to-cook-bake-grill-mix-drink-including"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "littlemssam_heatupleftovers",
+      "heatupleftovers",
+      "heat_up_leftovers",
+      "heat up leftovers",
+      "heat-up-leftovers"
+    ],
+    "name": "Heat Up Leftovers",
+    "creator": "LittleMsSam",
+    "mod_title": "Heat Up Leftovers",
+    "override_mod_title": true,
+    "version": "2026.11.07",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Heat Up Leftovers | LittleMsSam",
+        "url": "https://www.curseforge.com/sims4/mods/heat-up-leftovers"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "littlemssam_rsm_bg_fooddrinksasclutter",
+      "fooddrinksasclutter",
+      "food_drinks_as_clutter",
+      "rsm - food & drinks as clutter",
+      "food & drinks as clutter",
+      "food and drinks as clutter",
+      "rsm-food-drinks-as-clutter"
+    ],
+    "name": "RSM - Food & Drinks As Clutter",
+    "creator": "LittleMsSam",
+    "mod_title": "RSM - Food & Drinks As Clutter",
+    "override_mod_title": true,
+    "version": "2026.09.19",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "RSM - Food & Drinks As Clutter | LittleMsSam",
+        "url": "https://www.curseforge.com/sims4/mods/rsm-food-drinks-as-clutter"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "frequentlybasic_flavoredmemories",
+      "flavoredmemories",
+      "flavored_memories",
+      "flavored memories",
+      "flavored-memories"
+    ],
+    "name": "Flavored Memories",
+    "creator": "FrequentlyBasic",
+    "mod_title": "Flavored Memories",
+    "override_mod_title": true,
+    "version": "2026.10.19",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Flavored Memories | FrequentlyBasic",
+        "url": "https://www.curseforge.com/sims4/mods/flavored-memories"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "kayaker_gtw_aliensreloaded",
+      "aliensreloaded",
+      "aliens_reloaded",
+      "aliens reloaded",
+      "aliens-reloaded",
+      "onemorekayaker"
+    ],
+    "name": "Aliens Reloaded",
+    "creator": "OneMoreKayaker",
+    "mod_title": "Aliens Reloaded",
+    "override_mod_title": true,
+    "version": "4.0.4",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Itch.io (공식)",
+        "title": "Aliens Reloaded | OneMoreKayaker",
+        "url": "https://onemorekayaker.itch.io/aliens-reloaded"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "kemzima_politicalworld",
+      "politicalworld",
+      "political_world",
+      "political world",
+      "political-world",
+      "kemzima"
+    ],
+    "name": "Political World",
+    "creator": "KemZima",
+    "mod_title": "Political World",
+    "override_mod_title": true,
+    "version": "8.1",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "KemZima (공식)",
+        "title": "Political World | KemZima",
+        "url": "https://kemzimamods.com/political-world-mod/political-world-realistic-version-download-page/"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "sims4_aichat_byok_addon",
+      "aichat_byok",
+      "byok_addon",
+      "sims 4 ai chat byok addon"
+    ],
+    "name": "Sims 4 AI Chat BYOK Addon",
+    "creator": "lvl2032",
+    "mod_title": "Sims 4 AI Chat BYOK Addon",
+    "override_mod_title": false,
+    "version": "2.4.3",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "디시인사이드",
+        "title": "(26.11.01업뎃) AI Chat 애드온 BYOK 배포",
+        "url": "https://gall.dcinside.com/mgallery/board/view/?id=sims&no=281508"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "sims4_ai_chat",
+      "sims 4 ai chat",
+      "sims4aichat"
+    ],
+    "name": "Sims 4 AI Chat",
+    "creator": "VirtualConsciousnessLabs",
+    "mod_title": "Sims 4 AI Chat",
+    "override_mod_title": false,
+    "version": "2.4.3",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Sims 4 AI Chat v2.4.3 | Virtual Consciousness Labs",
+        "url": "https://www.patreon.com/VirtualConsciousnessLabs/posts/sims-4-ai-chat-4-174642480"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "Virtual Consciousness Labs Official Patreon",
+        "url": "https://www.patreon.com/VirtualConsciousnessLabs"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "fitnesscontrols-limits",
+      "fitnesscontrols_limits",
+      "fitness controls limits",
+      "limits-1.75x",
+      "limits-3.00x",
+      "limits-5.00x"
+    ],
+    "name": "Fitness Controls - Limits (애드온)",
+    "creator": "roBurky",
+    "mod_title": "Fitness Controls - Limits",
+    "override_mod_title": false,
+    "version": "2.0.12.0",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Itch.io (공식)",
+        "title": "Fitness Controls Limits Addon | roBurky",
+        "url": "https://roburky.itch.io/sims4-fitness"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "fitnesscontrols",
+      "fitness controls"
+    ],
+    "name": "Fitness Controls",
+    "creator": "roBurky",
+    "mod_title": "Fitness Controls",
+    "override_mod_title": false,
+    "version": "2.0.12.0",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Itch.io (공식)",
+        "title": "Fitness Controls | roBurky",
+        "url": "https://roburky.itch.io/sims4-fitness"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "xmlinjector",
+      "xml_injector",
+      "scumbumbo"
+    ],
+    "name": "XML Injector",
+    "creator": "Scumbumbo",
+    "mod_title": "XML Injector",
+    "override_mod_title": false,
+    "version": "4.2",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "공식 웹사이트",
+        "title": "Scumbumbo Mods XML Injector",
+        "url": "https://scumbumbomods.com/xml-injector"
+      },
+      {
+        "label": "CurseForge",
+        "title": "CurseForge XML Injector",
+        "url": "https://www.curseforge.com/sims4/mods/xml-injector"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_rpo_collection",
+      "rpo_collection_m"
+    ],
+    "name": "Relationship & Pregnancy Overhaul (RPO Collection)",
+    "creator": "Lumpinou",
+    "mod_title": "Relationship & Pregnancy Overhaul (RPO Collection)",
+    "override_mod_title": false,
+    "version": "2.986",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Relationship & Pregnancy Overhaul, ALL-FILES-IN-ONE-CLICK - Sims 4",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-relationship-75983577"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_toolbox",
+      "lumpinous_toolbox",
+      "lumpinou's toolbox"
+    ],
+    "name": "Lumpinou's Toolbox",
+    "creator": "Lumpinou",
+    "mod_title": "Lumpinou's Toolbox (Script Library)",
+    "override_mod_title": false,
+    "version": "5",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Lumpinou's Toolbox - Script Library-Mod - Sims 4",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-lumpinous-4-86658397"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "contextualsocialinteractions",
+      "contextual_social_interactions",
+      "lumpinou_contextualsocialinteractions"
+    ],
+    "name": "Lumpinou_ContextualSocialInteractions",
+    "creator": "Lumpinou",
+    "mod_title": "Contextual Social Interactions",
+    "override_mod_title": false,
+    "version": "2026.02.05",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Contextual Social Interactions - Sims 4",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-contextual-4-40485793"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "talentsweaknesses",
+      "talents_weaknesses",
+      "talentsandweaknesses"
+    ],
+    "name": "Lumpinou Talents & Weaknesses",
+    "creator": "Lumpinou",
+    "mod_title": "Talents & Weaknesses",
+    "override_mod_title": false,
+    "version": "2026.04.03",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Talents & Weaknesses | Lumpinou",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-talents-51561971"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_moodpackmod",
+      "moodpackmod",
+      "mood pack mod"
+    ],
+    "name": "Lumpinou_MoodPackMod",
+    "creator": "Lumpinou",
+    "mod_title": "Mood Pack Mod",
+    "override_mod_title": false,
+    "version": "1.677",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Lumpinou's Mood Pack Mod | Lumpinou",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-lumpinous-43759541"
+      },
+      {
+        "label": "CurseForge",
+        "title": "Mood Pack : New Moods for your Sims - The Sims 4 Mods",
+        "url": "https://www.curseforge.com/sims4/mods/mood-pack"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_roadtoromance_bg_(nolovestruckep)",
+      "lumpinou_roadtoromance_bg",
+      "roadtoromance_bg",
+      "nolovestruckep"
+    ],
+    "name": "Lumpinou_RoadToRomance_BG_(NoLovestruckEp)",
+    "creator": "Lumpinou",
+    "mod_title": "Road To Romance (BG / No Lovestruck EP)",
+    "override_mod_title": false,
+    "version": "2025.02.02",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Road to Romance - Lovestruck Edition - OR - BG Ver | Lumpinou",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-road-to-or-4-39785932"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_roadtoromance_lovestruckep",
+      "lumpinou_roadtoromance",
+      "roadtoromance",
+      "road to romance"
+    ],
+    "name": "Lumpinou_RoadToRomance",
+    "creator": "Lumpinou",
+    "mod_title": "Road To Romance",
+    "override_mod_title": false,
+    "version": "2025.02.02",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Road to Romance - Lovestruck Edition - OR - BG Ver | Lumpinou",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-road-to-or-4-39785932"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lumpinou_lawanddisorder.ts4script",
+      "lumpinou_lawanddisorder.package",
+      "lumpinou_lawanddisorder",
+      "lawanddisorder",
+      "law_and_disorder",
+      "law and disorder",
+      "law & disorder"
+    ],
+    "name": "Law and Disorder",
+    "creator": "Lumpinou",
+    "mod_title": "Law and Disorder",
+    "override_mod_title": false,
+    "version": "2025.11.03",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "[Mod] Law & Disorder - Maxis-Match Crime & Justice System | Lumpinou",
+        "url": "https://www.patreon.com/lumpinou/posts/mod-law-disorder-140597715"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "restrictedromance_bypolarbearsims",
+      "restrictedromance"
+    ],
+    "name": "RestrictedRomance By Polarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "RestrictedRomance By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2022.08.09",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "sims_learninfo_bypolarbearsims",
+      "sims_learninfo"
+    ],
+    "name": "Sims LearnInfo By Polarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Sims LearnInfo By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2025.05.24",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "personalityplease!_catsdogs_bypolarbearsims",
+      "personalityplease_catsdogs_bypolarbearsims",
+      "personality_please_catsdogs",
+      "personalityplease!_catsdogs",
+      "personalityplease_catsdogs"
+    ],
+    "name": "PersonalityPlease!_CatsDogs_ByPolarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Personality Please! - Cats & Dogs By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2025.05.26",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "personality_please!_toddlers_by_polarbearsims",
+      "personality_please_toddlers_by_polarbearsims",
+      "personalityplease_toddlers",
+      "personality_please!_toddlers",
+      "personality_please_toddlers"
+    ],
+    "name": "Personality_Please!_Toddlers_By_Polarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Personality Please! - Toddlers By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2025.05.24",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "personality_please_woohoo-tryforbabyrestricted_bypolarbearsims",
+      "woohoo-tryforbabyrestricted",
+      "tryforbabyrestricted",
+      "woohoo_tryforbabyrestricted"
+    ],
+    "name": "Personality_Please_Woohoo-TryForBabyRestricted_ByPolarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Personality Please! - Woohoo & Try For Baby Restricted By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2023.10.26",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "personalityplease_meaninteractions_bypolarbearsims",
+      "personality_please_meaninteractions",
+      "personalityplease_meaninteractions",
+      "meaninteractions_bypolarbearsims"
+    ],
+    "name": "PersonalityPlease_MeanInteractions_ByPolarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Personality Please! - Mean Interactions By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2025.05.24",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "personality_please",
+      "personalityplease"
+    ],
+    "name": "Personality Please! By Polarbearsims",
+    "creator": "Polarbearsims",
+    "mod_title": "Personality Please! By Polarbearsims",
+    "override_mod_title": false,
+    "version": "2025.05.24",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "ModTheSims",
+        "title": "Have Some Personality Please! | Polarbearsims",
+        "url": "https://modthesims.info/d/594573/have-some-personality-please.html"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "disl_to_nooutfitchangepromoted.package",
+      "disl_to_nooutfitchangepromoted.ts4script",
+      "disl_to_nooutfitchangepromoted",
+      "nooutfitchangepromoted",
+      "no outfit change when promoted"
+    ],
+    "name": "Townies & Outfits - No Outfit Change When Promoted",
+    "creator": "Down-In-Simsland",
+    "mod_title": "Townies & Outfits - No Outfit Change When Promoted",
+    "override_mod_title": false,
+    "version": "2025.09.27",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "SimFileShare",
+        "title": "DISL_TO_NoOutfitChangePromoted | Down-In-Simsland",
+        "url": "https://www.simfileshare.net/download/5174540/"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "kallixer_removesimsfromconversation",
+      "removesimsfromconversation"
+    ],
+    "name": "Remove Sims From Conversation",
+    "creator": "Kallixer",
+    "mod_title": "Remove Sims From Conversation",
+    "override_mod_title": false,
+    "version": "2a",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Remove Sims from Conversation | Kallixer",
+        "url": "https://www.curseforge.com/sims4/mods/remove-sims-from-conversation"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "lotharihoe_simspawnoverhaul",
+      "simspawnoverhaul"
+    ],
+    "name": "Sim Spawn Overhaul",
+    "creator": "lotharihoe",
+    "mod_title": "Sim Spawn Overhaul",
+    "override_mod_title": false,
+    "version": "3.0.3",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Sim Spawn Overhaul | lotharihoe",
+        "url": "https://www.curseforge.com/sims4/mods/sim-spawn-overhaul"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "cas tuning add-on",
+      "cas tuning base",
+      "controlled position mod"
+    ],
+    "name": "Controlled Position Mod (CAS Tuning)",
+    "creator": "NORTHERN SIBERIA WINDS",
+    "mod_title": "",
+    "override_mod_title": false,
+    "version": "2.3",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "CONTROLLED POSITION MOD | NORTHERN SIBERIA WINDS",
+        "url": "https://www.patreon.com/northernsiberiawinds/posts/controlled-mod-103628223"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "simmattically_family_loadingscreen",
+      "family_loadingscreen"
+    ],
+    "name": "Family Loading Screen",
+    "creator": "SimMattically",
+    "mod_title": "Family Loading Screen",
+    "override_mod_title": false,
+    "version": "2026.02.16",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Family Loading Screen | The Sims 4 | SimMattically",
+        "url": "https://www.patreon.com/SimMattically/posts/family-loading-4-150916961"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "simmattically_refreshedmainmenu_optional_alternativelogo",
+      "refreshedmainmenu_optional_alternativelogo",
+      "optional_alternativelogo"
+    ],
+    "name": "SimMattically_RefreshedMainMenu_Optional_AlternativeLogo",
+    "creator": "SimMattically",
+    "mod_title": "Refreshed Main Menu: Optional Alternative Logo",
+    "override_mod_title": false,
+    "version": "2025.05.06",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Refreshed Main Menu: Homeview | SimMattically",
+        "url": "https://www.patreon.com/SimMattically/posts/refreshed-main-126640866"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "simmattically_refreshedmainmenu_standalone_homeview",
+      "refreshedmainmenu_standalone_homeview"
+    ],
+    "name": "Refreshed Main Menu: Homeview",
+    "creator": "SimMattically",
+    "mod_title": "Refreshed Main Menu: Homeview",
+    "override_mod_title": false,
+    "version": "2025.05.06",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Refreshed Main Menu: Homeview | SimMattically",
+        "url": "https://www.patreon.com/SimMattically/posts/refreshed-main-126640866"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_motive_fail_energy_animation_replacement.package",
+      "nv_sm_motive_fail_energy_animation_replacement",
+      "motive_fail_energy_animation_replacement"
+    ],
+    "name": "NV_SM_Motive_Fail_Energy_Animation_Replacement",
+    "creator": "NV Games",
+    "mod_title": "Motive Fail Energy Animation Replacement",
+    "override_mod_title": false,
+    "version": "2025.03.14",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_asymcelebsocial_fan_faint_animation_replacement.package",
+      "nv_sm_asymcelebsocial_fan_faint_animation_replacement",
+      "asymcelebsocial_fan_faint_animation_replacement"
+    ],
+    "name": "NV_SM_AsymCelebSocial_Fan_Faint_Animation_Replacement",
+    "creator": "NV Games",
+    "mod_title": "AsymCelebSocial Fan Faint Animation Replacement",
+    "override_mod_title": false,
+    "version": "2025.03.14",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_werewolf_howling_animation_replacement.package",
+      "nv_sm_werewolf_howling_animation_replacement",
+      "werewolf_howling_animation_replacement"
+    ],
+    "name": "NV_SM_Werewolf_Howling_Animation_Replacement",
+    "creator": "NV Games",
+    "mod_title": "Werewolf Howling Animation Replacement",
+    "override_mod_title": false,
+    "version": "2025.03.14",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_no_overhead_effects.package",
+      "nv_sm_no_overhead_effects",
+      "no_overhead_effects"
+    ],
+    "name": "NV_SM_No_Overhead_Effects",
+    "creator": "NV Games",
+    "mod_title": "No Overhead Effects",
+    "override_mod_title": false,
+    "version": "2022.09.16",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_no_effects.package",
+      "nv_sm_no_effects"
+    ],
+    "name": "NV_SM_No_Effects",
+    "creator": "NV Games",
+    "mod_title": "No Effects",
+    "override_mod_title": false,
+    "version": "2025.03.14",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_standing_idle_neutral.package",
+      "nv_sm_standing_idle_neutral",
+      "nv_sm_standing_idle.package",
+      "nv_sm_standing_idle",
+      "nv.sm standing idle",
+      "nv. sm standing idle"
+    ],
+    "name": "NV_SM_Standing_Idle",
+    "creator": "NV Games",
+    "mod_title": "Standing Idle",
+    "override_mod_title": false,
+    "version": "2023.03.21",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_facialoverlay_animation_replacement_adult_all.package",
+      "nv_sm_facialoverlay_animation_replacement_adult_angry.package",
+      "nv_sm_facialoverlay_animation_replacement_adult_bored.package",
+      "nv_sm_facialoverlay_animation_replacement_adult_confident.package",
+      "nv_sm_facialoverlay_animation_replacement_adult_happy.package",
+      "nv_sm_facialoverlay_animation_replacement_adult_sad.package",
+      "nv_sm_facialoverlay_animation_replacement_children_all.package",
+      "nv_sm_facialoverlay_animation_replacement_children_angry.package",
+      "nv_sm_facialoverlay_animation_replacement_children_bored.package",
+      "nv_sm_facialoverlay_animation_replacement_children_happy.package",
+      "nv_sm_facialoverlay_animation_replacement_children_sad.package",
+      "nv_sm_facialoverlay_animation_replacement",
+      "facialoverlay_animation_replacement",
+      "nv.sm facial overlay animation replacement",
+      "nv. sm facial overlay animation replacement"
+    ],
+    "name": "NV_SM_FacialOverlay_Animation_Replacement",
+    "creator": "NV Games",
+    "mod_title": "Facial Overlay Animation Replacement",
+    "override_mod_title": false,
+    "version": "2025.03.15",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "nv_sm_ui_mood",
+      "nv_sm_ui_mood_01_adult_all",
+      "nv_sm_ui_mood_01_children_all"
+    ],
+    "name": "NV_SM_UI_Mood",
+    "creator": "NV Games",
+    "mod_title": "",
+    "override_mod_title": false,
+    "version": "2025.03.15",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "SMALL MODS | NV . Games",
+        "url": "https://www.patreon.com/nv_games/posts/small-mods-69121597"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "sims4me_lessfacialoveraction",
+      "lessfacialoveraction",
+      "less facial overaction"
+    ],
+    "name": "Less Facial Overaction",
+    "creator": "Bienchen (sims4me)",
+    "mod_title": "Less Facial Overaction",
+    "override_mod_title": false,
+    "version": "2026.09.06",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "CurseForge (공식)",
+        "title": "Less Facial Overaction | Bienchen (sims4me)",
+        "url": "https://www.curseforge.com/sims4/mods/less-facial-overaction"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "friedgil_random_name_korean_translation_compilation"
+    ],
+    "name": "FriedGil_Random_Name_Korean_Translation_Compilation",
+    "creator": "FriedGil",
+    "mod_title": "Random Name Korean Translation Compilation",
+    "override_mod_title": false,
+    "version": "2026.02.05",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "네이버 블로그 참고 (무료)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "FriedGil 랜덤 이름 한글화 배포 포스트",
+        "url": "https://blog.naver.com/friedg/221810746795"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "friedgil_random_name_korean_translation_no_korean"
+    ],
+    "name": "FriedGil_Random_Name_Korean_Translation_NO_Korean",
+    "creator": "FriedGil",
+    "mod_title": "Random Name Korean Translation (NO Korean)",
+    "override_mod_title": false,
+    "version": "2026.02.05",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "네이버 블로그 참고 (무료)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "FriedGil 랜덤 이름 한글화 배포 포스트",
+        "url": "https://blog.naver.com/friedg/221810746795"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "friedgil_random_name_korean_translation_no_cl&il",
+      "friedgil_random_name_korean_translation_no_cl_il"
+    ],
+    "name": "FriedGil_Random_Name_Korean_Translation_NO_CL&IL",
+    "creator": "FriedGil",
+    "mod_title": "Random Name Korean Translation (NO CL&IL)",
+    "override_mod_title": false,
+    "version": "2026.02.05",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "네이버 블로그 참고 (무료)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "FriedGil 랜덤 이름 한글화 배포 포스트",
+        "url": "https://blog.naver.com/friedg/221810746795"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "friedgil_random_name_korean_translation",
+      "friedgil",
+      "friedgil_random_name",
+      "random_name_korean_translation"
+    ],
+    "name": "FriedGil_Random_Name_Korean_Translation",
+    "creator": "FriedGil",
+    "mod_title": "Random Name Korean Translation",
+    "override_mod_title": false,
+    "version": "2026.02.05",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "네이버 블로그 참고 (무료)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "FriedGil 랜덤 이름 한글화 배포 포스트",
+        "url": "https://blog.naver.com/friedg/221810746795"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "tmex-betterexceptions",
+      "betterexceptions",
+      "better exceptions"
+    ],
+    "name": "Better Exceptions",
+    "creator": "TwistedMexi",
+    "mod_title": "Better Exceptions",
+    "override_mod_title": false,
+    "version": "3.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Better Exceptions v3.17 | TwistedMexi",
+        "url": "https://www.patreon.com/TwistedMexi/posts/better-v3-17-mod-130049745"
+      },
+      {
+        "label": "Patreon 채널",
+        "title": "TwistedMexi Official Patreon",
+        "url": "https://www.patreon.com/TwistedMexi"
+      },
+      {
+        "label": "CurseForge (공식)",
+        "title": "Better Exceptions | TwistedMexi",
+        "url": "https://www.curseforge.com/sims4/mods/better-exceptions"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "walkingbounce",
+      "walking bounce",
+      "walking bounces"
+    ],
+    "name": "WalkingBounce",
+    "creator": "Bouncing Sims 4",
+    "mod_title": "Bouncing Sims 4 (WalkingBounce)",
+    "override_mod_title": false,
+    "version": "2026.11.10",
+    "is_paid": true,
+    "is_early_access": false,
+    "release_notes": "유료 상품이어서 자동 다운로드가 불가능합니다. (Patreon 공식 링크)",
+    "links": [
+      {
+        "label": "Patreon (유료 상품)",
+        "title": "Bouncing Sims 4 | WalkingBounce",
+        "url": "https://www.patreon.com/TonicSims/posts/bouncing-sims-4-174891794"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "pandasama_dramageneratorscript.ts4script",
+      "pandasama_dramageneratorscript",
+      "pandasama_dramagenerator_core",
+      "pandasama_dramagenerator_abandonedbaby_module",
+      "pandasama_dramagenerator_runawaychild_module",
+      "pandasama_dramagenerator",
+      "drama_generator",
+      "dramagenerator",
+      "drama generator"
+    ],
+    "name": "Drama Generator",
+    "creator": "Pandasama",
+    "mod_title": "Drama Generator",
+    "override_mod_title": false,
+    "version": "1.23",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Pandasama Official (공식)",
+        "title": "Drama Generator Mod | Pandasama",
+        "url": "https://www.pandasama.com/drama-generator-mod/#downloads"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "pandasama_childbirth.ts4script",
+      "pandasama_childbirth_mod",
+      "pandasama_childbirth",
+      "childbirth_mod",
+      "child_birth_mod",
+      "child birth mod",
+      "child birth",
+      "childbirth"
+    ],
+    "name": "Child Birth",
+    "creator": "Pandasama",
+    "mod_title": "Child Birth",
+    "override_mod_title": false,
+    "version": "1.972",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Pandasama Official (공식)",
+        "title": "Child Birth Mod | Pandasama",
+        "url": "https://www.pandasama.com/child-birth-mod/#downloads"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "divine ascension trailer - lot&sims.zip",
+      "divine ascension trailer - lot&sims",
+      "divine_ascension_trailer_lot&sims",
+      "divine ascension trailer",
+      "lot&sims"
+    ],
+    "name": "Divine Ascension Trailer - Lot&Sims",
+    "creator": "SpinningPlumbobs",
+    "mod_title": "Divine Ascension Trailer - Lot&Sims",
+    "override_mod_title": false,
+    "version": "2026.07.21",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Divine Ascension Mod (Lot & Sims) | SpinningPlumbobs",
+        "url": "https://www.patreon.com/spinningplumbobs/posts/divine-ascension-152466612"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "spinningplumbobs_divineascension",
+      "spinningplumbobs_divinemod.ts4script",
+      "spinningplumbobs_divinemod",
+      "spinningplumbobs_divineascension_main.package",
+      "spinningplumbobs_divineascension_main",
+      "sp_divineascension_stbls.package",
+      "sp_divineascension_stbls",
+      "sp_da_animations",
+      "divine ascension mod",
+      "divine_ascension",
+      "divineascension"
+    ],
+    "name": "Divine Ascension Mod",
+    "creator": "SpinningPlumbobs",
+    "mod_title": "Divine Ascension Mod",
+    "override_mod_title": false,
+    "version": "2026.07.21",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "Divine Ascension Mod | SpinningPlumbobs",
+        "url": "https://www.patreon.com/spinningplumbobs/posts/divine-ascension-152466612"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_kor_juicetodrink.package",
+      "_kor_juicetodrink",
+      "kor_juicetodrink",
+      "(kor)juicetodrink",
+      "juicetodrink"
+    ],
+    "name": "_KOR_JuicetoDrink",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 애드온 (_KOR_JuicetoDrink)",
+    "override_mod_title": false,
+    "version": "2024.03.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 통합한글화모음 애드온 (Postype 무료 공개)",
+    "links": [
+      {
+        "label": "Postype (무료)",
+        "title": "통합한글화모음 애드온 | 바람별",
+        "url": "https://www.postype.com/@wwwindystar/post/10314790"
+      },
+      {
+        "label": "Patreon (무료)",
+        "title": "통합한글화모음 애드온 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-53821570"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_kor_beerbrewing.package",
+      "_kor_beerbrewing",
+      "kor_beerbrewing",
+      "(kor)beerbrewing",
+      "beerbrewing"
+    ],
+    "name": "_KOR_BeerBrewing",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 애드온 (_KOR_BeerBrewing)",
+    "override_mod_title": false,
+    "version": "2024.03.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 통합한글화모음 애드온 (Postype 무료 공개)",
+    "links": [
+      {
+        "label": "Postype (무료)",
+        "title": "통합한글화모음 애드온 | 바람별",
+        "url": "https://www.postype.com/@wwwindystar/post/10314790"
+      },
+      {
+        "label": "Patreon (무료)",
+        "title": "통합한글화모음 애드온 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-53821570"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_kor_plasmatoblood.package",
+      "_kor_plasmatoblood",
+      "kor_plasmatoblood",
+      "(kor)plasmatoblood",
+      "plasmatoblood"
+    ],
+    "name": "_KOR_PlasmaToBlood",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 애드온 (_KOR_PlasmaToBlood)",
+    "override_mod_title": false,
+    "version": "2024.03.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 통합한글화모음 애드온 (Postype 무료 공개)",
+    "links": [
+      {
+        "label": "Postype (무료)",
+        "title": "통합한글화모음 애드온 | 바람별",
+        "url": "https://www.postype.com/@wwwindystar/post/10314790"
+      },
+      {
+        "label": "Patreon (무료)",
+        "title": "통합한글화모음 애드온 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-53821570"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_kor_bloodbeer.package",
+      "_kor_bloodbeer",
+      "kor_bloodbeer",
+      "(kor)bloodbeer",
+      "bloodbeer"
+    ],
+    "name": "_KOR_BloodBeer",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 애드온 (_KOR_BloodBeer)",
+    "override_mod_title": false,
+    "version": "2024.03.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 통합한글화모음 애드온 (Postype 무료 공개)",
+    "links": [
+      {
+        "label": "Postype (무료)",
+        "title": "통합한글화모음 애드온 | 바람별",
+        "url": "https://www.postype.com/@wwwindystar/post/10314790"
+      },
+      {
+        "label": "Patreon (무료)",
+        "title": "통합한글화모음 애드온 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-53821570"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "automaticpreferences.package",
+      "automaticpreferences",
+      "automatic_preferences"
+    ],
+    "name": "AutomaticPreferences",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 애드온 (AutomaticPreferences)",
+    "override_mod_title": false,
+    "version": "2024.03.17",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 통합한글화모음 애드온 (Postype 무료 공개)",
+    "links": [
+      {
+        "label": "Postype (무료)",
+        "title": "통합한글화모음 애드온 | 바람별",
+        "url": "https://www.postype.com/@wwwindystar/post/10314790"
+      },
+      {
+        "label": "Patreon (무료)",
+        "title": "통합한글화모음 애드온 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-53821570"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v97.8r-ff",
+      "_wamtik-v97.8r-ff",
+      "wamtik-v97.8r-ff"
+    ],
+    "name": "!WAMTIK-V97.8R-FF",
+    "creator": "바람별",
+    "mod_title": "바람별 공식 한글화 모드 빨간맛 (성씨-이름 FF)",
+    "override_mod_title": false,
+    "version": "V97.8R",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 공식 한글화 모드 공개버전 빨간맛 · 풀네임 성씨-이름(FF) 표시 버전 (Patreon 무료 공개)",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "통합한글화모음 V97.8R | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-58263282"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v97.8r",
+      "_wamtik-v97.8r",
+      "wamtik-v97.8r"
+    ],
+    "name": "!WAMTIK-V97.8R",
+    "creator": "바람별",
+    "mod_title": "바람별 공식 한글화 모드 빨간맛",
+    "override_mod_title": false,
+    "version": "V97.8R",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 공식 한글화 모드 공개버전 빨간맛 · 기본 이름 표시 버전 (Patreon 무료 공개)",
+    "links": [
+      {
+        "label": "Patreon (공식)",
+        "title": "통합한글화모음 V97.8R | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-58263282"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v97.8-ff",
+      "_wamtik-v97.8-ff",
+      "wamtik-v97.8-ff"
+    ],
+    "name": "!WAMTIK-V97.8-FF",
+    "creator": "바람별",
+    "mod_title": "바람별 공식 한글화 모드 (성씨-이름 FF)",
+    "override_mod_title": false,
+    "version": "V97.8",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 공식 한글화 모드 · 풀네임 성씨-이름(FF) 표시 버전 (네이버 블로그 무료 공개)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "바람별 심즈 4 공식 한글화 모드",
+        "url": "https://blog.naver.com/wwwindystar/220460594769"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "Patreon (선배포)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v97.8",
+      "_wamtik-v97.8",
+      "wamtik-v97.8"
+    ],
+    "name": "!WAMTIK-V97.8",
+    "creator": "바람별",
+    "mod_title": "바람별 공식 한글화 모드",
+    "override_mod_title": false,
+    "version": "V97.8",
+    "is_paid": false,
+    "is_early_access": false,
+    "release_notes": "바람별 공식 한글화 모드 · 기본 이름 표시 버전 (네이버 블로그 무료 공개)",
+    "links": [
+      {
+        "label": "네이버 블로그 참고 (무료)",
+        "title": "바람별 심즈 4 공식 한글화 모드",
+        "url": "https://blog.naver.com/wwwindystar/220460594769"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "Patreon (선배포)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_wamtik-v98p8-ff",
+      "!wamtik-v98p8-ff",
+      "wamtik-v98p8-ff"
+    ],
+    "name": "_WAMTIK-V98P8-FF",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 순한맛 (성씨-이름 FF)",
+    "override_mod_title": false,
+    "version": "V98P8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "바람별 한글화 모드 순한맛(순결버전) · 풀네임 성씨-이름(FF) 표시 버전 (후원자 전용 · 수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Postype",
+        "title": "통합한글화모음 V98P8 순결버전 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar/post/9789832"
+      },
+      {
+        "label": "Patreon (후원자 전용)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "_wamtik-v98p8",
+      "!wamtik-v98p8",
+      "wamtik-v98p8"
+    ],
+    "name": "_WAMTIK-V98P8",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 순한맛",
+    "override_mod_title": false,
+    "version": "V98P8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "바람별 한글화 모드 순한맛(순결버전) · 기본 이름 표시 버전 (후원자 전용 · 수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Postype",
+        "title": "통합한글화모음 V98P8 순결버전 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar/post/9789832"
+      },
+      {
+        "label": "Patreon (후원자 전용)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v98b8-ff",
+      "_wamtik-v98b8-ff",
+      "wamtik-v98b8-ff"
+    ],
+    "name": "!WAMTIK-V98B8-FF",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 베타버전 빨간맛 (성씨-이름 FF)",
+    "override_mod_title": false,
+    "version": "V98B8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "베타버전 빨간맛 · 풀네임 성씨-이름(FF) 표시 버전 (후원자 전용 · 수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Patreon (후원자 전용)",
+        "title": "통합한글화모음 V98B8 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-69805432"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v98b8",
+      "_wamtik-v98b8",
+      "wamtik-v98b8"
+    ],
+    "name": "!WAMTIK-V98B8",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 베타버전 빨간맛",
+    "override_mod_title": false,
+    "version": "V98B8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "베타버전 빨간맛 · 기본 이름 표시 버전 (후원자 전용 · 수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Patreon (후원자 전용)",
+        "title": "통합한글화모음 V98B8 | 바람별 ZIMS",
+        "url": "https://www.patreon.com/wwindystarZIMS/posts/tonghabhangeulhw-69805432"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v98g8-ff",
+      "_wamtik-v98g8-ff",
+      "wamtik-v98g8-ff"
+    ],
+    "name": "!WAMTIK-V98G8-FF",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드 (성씨-이름 FF)",
+    "override_mod_title": false,
+    "version": "V98G8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "선배포모드 번역이 추가되는 광역후원자 버전 · 풀네임 성씨-이름(FF) 표시 (수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Patreon (선배포)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "!wamtik-v98g8",
+      "_wamtik-v98g8",
+      "wamtik-v98g8",
+      "wamtik",
+      "바람별",
+      "바람별한글화"
+    ],
+    "name": "!WAMTIK-V98G8",
+    "creator": "바람별",
+    "mod_title": "바람별 한글화 모드",
+    "override_mod_title": false,
+    "version": "V98G8",
+    "is_paid": false,
+    "is_early_access": true,
+    "release_notes": "선배포모드 번역이 추가되는 광역후원자 버전 (수동 다운로드 안내)",
+    "links": [
+      {
+        "label": "Patreon (선배포)",
+        "title": "바람별 ZIMS 통합 한글화 (Patreon)",
+        "url": "https://www.patreon.com/cw/wwindystarZIMS"
+      },
+      {
+        "label": "Postype",
+        "title": "바람별의 포스타입 (Postype)",
+        "url": "https://www.postype.com/@wwwindystar"
+      },
+      {
+        "label": "네이버 블로그",
+        "title": "바람별의 심즈 4 네이버 블로그",
+        "url": "https://blog.naver.com/wwwindystar"
+      }
+    ]
+  }
+]

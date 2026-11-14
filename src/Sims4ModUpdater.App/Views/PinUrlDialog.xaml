@@ -1,0 +1,58 @@
+<Window x:Class="Sims4ModUpdater.Views.PinUrlDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="배포처 URL 고정 / 수정"
+        Width="560"
+        SizeToContent="Height"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="{StaticResource BgCanvasBrush}"
+        Foreground="{StaticResource TextPrimaryBrush}"
+        FontFamily="{StaticResource AppFont}">
+    <Border Padding="22">
+        <StackPanel>
+            <TextBlock Text="배포처 URL 수동 고정 (Pinning)" FontSize="17" FontWeight="SemiBold" Foreground="{StaticResource TextPrimaryBrush}" />
+            <TextBlock x:Name="TxtModName" Margin="0,6,0,14" FontSize="13" Foreground="{StaticResource AccentCyanBrush}" TextWrapping="Wrap" />
+
+            <TextBlock Text="다음 업데이트 조회 시 자동 검색을 건너뛰고 아래 공식/배포 페이지 URL을 우선 확인합니다."
+                       FontSize="12.5" Foreground="{StaticResource TextMutedBrush}" TextWrapping="Wrap" Margin="0,0,0,12" />
+
+            <TextBlock Text="페이지 URL (Patreon, Itch.io, ModTheSims, CurseForge, Deaderpool, 네이버 블로그 등)"
+                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}" Margin="0,0,0,6" />
+            <TextBox x:Name="TxtUrl" Height="38" Margin="0,0,0,6" />
+            <TextBlock x:Name="TxtValidationError"
+                       Visibility="Collapsed"
+                       Foreground="{StaticResource DangerRedBrush}"
+                       FontSize="12"
+                       Margin="0,0,0,8" />
+
+            <Grid Margin="0,14,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="BtnRemovePin"
+                        Grid.Column="0"
+                        Content="고정 해제"
+                        Style="{StaticResource DangerButtonStyle}"
+                        Click="OnRemovePinClick"
+                        Visibility="Collapsed" />
+
+                <Button Grid.Column="2"
+                        Content="취소"
+                        Style="{StaticResource SecondaryButtonStyle}"
+                        Margin="0,0,8,0"
+                        IsCancel="True" />
+
+                <Button Grid.Column="3"
+                        Content="URL 고정 저장"
+                        Style="{StaticResource PrimaryButtonStyle}"
+                        IsDefault="True"
+                        Click="OnSaveClick" />
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>
