@@ -1,0 +1,55 @@
+<Window x:Class="Sims4ModUpdater.Views.OverwriteModeDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="압축 해제 / 덮어쓰기 방식 선택"
+        Width="520"
+        SizeToContent="Height"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="{StaticResource BgCanvasBrush}"
+        Foreground="{StaticResource TextPrimaryBrush}"
+        FontFamily="{StaticResource AppFont}">
+    <Border Padding="22">
+        <StackPanel>
+            <TextBlock Text="업데이트 파일 적용 방식" FontSize="17" FontWeight="SemiBold" />
+            <TextBlock x:Name="TxtPrompt"
+                       Margin="0,8,0,14"
+                       FontSize="13"
+                       Foreground="{StaticResource TextMutedBrush}"
+                       TextWrapping="Wrap" />
+
+            <Border Style="{StaticResource ElevatedCardStyle}" Margin="0,0,0,8">
+                <RadioButton x:Name="RbAll"
+                             IsChecked="True"
+                             Foreground="{StaticResource TextPrimaryBrush}"
+                             FontSize="13"
+                             FontWeight="SemiBold"
+                             Content="전체 패키지/스크립트 함께 업데이트 (권장)">
+                </RadioButton>
+            </Border>
+            <TextBlock Text="압축 내 모든 모드 파일을 대상 폴더로 추출·덮어씁니다. 상호 배타적 구버전 에디션 정리도 함께 수행됩니다."
+                       FontSize="11.5" Foreground="{StaticResource TextMutedBrush}" Margin="6,0,0,12" TextWrapping="Wrap" />
+
+            <Border Style="{StaticResource ElevatedCardStyle}" Margin="0,0,0,8">
+                <RadioButton x:Name="RbSingle"
+                             Foreground="{StaticResource TextPrimaryBrush}"
+                             FontSize="13"
+                             FontWeight="SemiBold"
+                             Content="선택한 단일 파일만 덮어쓰기">
+                </RadioButton>
+            </Border>
+            <TextBlock Text="선택한 모드 유닛의 대표 파일과 일치하는 항목만 교체합니다. 번들 내 추가 옵션 파일을 건드리지 않을 때 유용합니다."
+                       FontSize="11.5" Foreground="{StaticResource TextMutedBrush}" Margin="6,0,0,14" TextWrapping="Wrap" />
+
+            <CheckBox x:Name="ChkApplyAllBatch"
+                      Content="이번 일괄 업데이트 작업의 나머지 모드에도 동일 적용"
+                      Visibility="Collapsed"
+                      Margin="0,0,0,14" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="취소" Style="{StaticResource SecondaryButtonStyle}" Margin="0,0,8,0" IsCancel="True" />
+                <Button Content="업데이트 실행" Style="{StaticResource PrimaryButtonStyle}" IsDefault="True" Click="OnConfirmClick" />
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

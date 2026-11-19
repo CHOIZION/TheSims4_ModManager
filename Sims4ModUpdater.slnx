@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Sims4ModUpdater.Core/Sims4ModUpdater.Core.csproj" />
+  </Folder>
+  <Folder Name="/src/Sims4ModUpdater.App/">
+    <Project Path="src/Sims4ModUpdater.App/Sims4ModUpdater.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Sims4ModUpdater.Tests/Sims4ModUpdater.Tests.csproj" />
+  </Folder>
+</Solution>

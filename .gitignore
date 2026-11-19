@@ -1,0 +1,23 @@
+# .NET / Visual Studio / IDE
+bin/
+obj/
+out/
+publish/
+release/
+dist/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.snupkg
+*.swp
+TestResults/
+
+# App runtime state & user-specific files
+config.json
+creator_overrides.json
+scan_report.txt
+backups/
+*.log
